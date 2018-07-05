@@ -1,0 +1,2 @@
+1、将本地Git仓库已与远程仓库进行关联，Git Bash〓
+git remote add origin https://github.com/3040898881/testgit.git
